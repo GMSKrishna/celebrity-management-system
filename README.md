@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 You are a famous hacker who has access to a list of the world's most famous celebrities.
 You have to create a system where you can view and edit their details to hide their public presence.
 
@@ -38,3 +39,6 @@ Your mission if you choose to accept it, you have to:
 5. Typescript is a plus
 
 This message will self destruct in 5... 4... 3... 2... 1... NOT
+=======
+# celebrity-management-system
+>>>>>>> 9de477502ed95215bf0f05429994f734b74c0486

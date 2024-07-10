@@ -1,5 +1,5 @@
 # celebrity-management-system
-__#Gadugoyyala Manikanta Sai Krishna__
+<span style="color: red"> Gadugoyyala Manikanta Sai Krishna</span>
 -------- HEAD
 You are a famous hacker who has access to a list of the world's most famous celebrities.
 You have to create a system where you can view and edit their details to hide their public presence.

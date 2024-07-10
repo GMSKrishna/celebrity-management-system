@@ -5,22 +5,22 @@ You have to create a system where you can view and edit their details to hide th
 
 Your mission if you choose to accept it, you have to:
 
-1. Create the user interface provided with the design provided
+1. __Create the user interface provided with the design provided__
 
-2. The user list item is an accordion,
+2. __The user list item is an accordion__,
 
    - when clicked on, it will cause all the other accordions to collapse and enlarge the one which was clicked.
    - If clicked on the same one it will collapse.
    - Manage the + and - icons in open or collapsed mode (collapsed = - | open = +)
 
-3. Fetch the JSON file provided to fill the list of users. (NOTE - YOU CANNOT EDIT THE JSON FILE)
+3. __Fetch the JSON file provided to fill the list of users. (NOTE - YOU CANNOT EDIT THE JSON FILE)__
 
    - You have to calculate the age of the user based on the date of birth provided
    - gender should be a dropdown (Male | Female | Transgender | Rather not say | Other)
    - country is a text field
    - Description is a text area
 
-4. Provide buttons to edit or delete
+4. __Provide buttons to edit or delete__
 
    - edit mode will let you edit the details of the user in the exact place
    - you can only edit the user if the user is an adult
